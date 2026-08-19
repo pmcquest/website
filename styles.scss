@@ -4,19 +4,42 @@ $gold: #ae9142;
 $body-bg: #ffffff;
 $body-color: #1c1c1c;
 $link-color: $navy;
-$navbar-bg: $navy;
-$navbar-fg: #ffffff;
+$navbar-bg: #ffffff;
+$navbar-fg: $navy;
 $navbar-hl: $gold;
 $headings-color: $navy;
-$footer-bg: #f5f4f0;
+$footer-bg: #ffffff;
 
 /*-- scss:rules --*/
+body {
+  line-height: 1.6;
+}
+
 .navbar-title {
-  font-weight: 600;
+  font-weight: 700;
+}
+
+.navbar {
+  border-bottom: 1px solid #e8e8e8;
+  box-shadow: none;
+}
+
+.navbar .nav-link {
+  font-weight: 400;
 }
 
 h1, h2, h3 {
   font-weight: 600;
+}
+
+.content {
+  max-width: 840px;
+}
+
+.footer {
+  border-top: 1px solid #e8e8e8;
+  color: #6a6a6a;
+  font-size: 0.9rem;
 }
 
 .hero {
