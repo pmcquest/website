@@ -31,6 +31,7 @@ format:
     theme:
       light: [cosmo, styles.scss]
     css: styles.css
+    include-after-body: lang-toggle.html
     toc: false
     linkcolor: "#0c2340"
     fontsize: 1.05em

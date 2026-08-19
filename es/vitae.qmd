@@ -1,0 +1,87 @@
+---
+title: "CV"
+---
+
+<div class="contact-block">
+O-111 Hesburgh Center, Notre Dame, IN 46556 · [pmcquest@nd.edu](mailto:pmcquest@nd.edu) · [ORCID: 0000-0003-0713-3642](https://orcid.org/my-orcid?orcid=0000-0003-0713-3642) · [Google Scholar](https://scholar.google.com/citations?user=D6T5uPcAAAAJ&hl=en&oi=ao)
+</div>
+
+<div class="quicklinks" style="margin-top: 0.6rem;">
+[Descargar CV completo (PDF, en inglés)](../files/McQuestion-CV.pdf){target="_blank"}
+</div>
+
+<div class="cv-section">
+### Formación Académica
+<div class="cv-entry"><div class="year">2028 (prev.)</div><div>Doctorado en Estudios de Paz y Ciencia Política, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2019</div><div>Maestría en Gestión y Política de Desarrollo, Universidad de Georgetown y Universidad Nacional de San Martín (Argentina)</div></div>
+<div class="cv-entry"><div class="year">2012</div><div>Licenciatura en Literatura Inglesa, Reed College</div></div>
+</div>
+
+<div class="cv-section">
+### Becas y Subvenciones
+<div class="cv-entry"><div class="year">2025–2027</div><div>Presidential Fellow en Humanidades y Ciencias Sociales, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2024–2027</div><div>Doctoral Student Affiliate, Instituto Kellogg de Estudios Internacionales, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2024</div><div>Semifinalista, Beca Fulbright Open Study/Research, Programa Fulbright de EE. UU.</div></div>
+<div class="cv-entry"><div class="year">2023–2024</div><div>Fellow, Lucy Institute for Data &amp; Society, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2023–2024</div><div>John Darby Fellow, Instituto Kroc de Estudios Internacionales de Paz, Universidad de Notre Dame</div></div>
+</div>
+
+<div class="cv-section">
+### Actividad en Congresos
+
+**Ponencias Presentadas**
+
+<div class="cv-entry"><div class="year">2026</div><div>"Estimating levels of subnational democracy: Combining empirical data and expert scores from Colombia," Latin American Studies Association Congress</div></div>
+<div class="cv-entry"><div class="year">2026</div><div>"Estimating Levels of Subnational Democracy in Colombia using Varieties of Democracy (V-Dem) and Local Empirical Data," Midwest Political Science Association</div></div>
+<div class="cv-entry"><div class="year">2025</div><div>"Informal mining, polycentricity, and environmental outcomes," FLARE Annual Meeting (Perú)</div></div>
+<div class="cv-entry"><div class="year">2025</div><div>"Measuring Expected Levels of Democracy for Colombian Municipalities," Midwest Political Science Association</div></div>
+<div class="cv-entry"><div class="year">2025</div><div>"Who controls the narrative? Gender and Country of Origin in the Contours, Themes and Biases of Peace Studies," International Studies Association</div></div>
+<div class="cv-entry"><div class="year">2024</div><div>"Measuring Subnational Democracy with Varieties of Democracy (V-Dem) Survey Data — An Application Using the Case of Colombia," Global Democracy Conference, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2023</div><div>"Decentralizing Rural Development after Civil War: The Case of Colombia's PDET Initiatives," International Studies Association Latin America &amp; Caribbean Region (Colombia)</div></div>
+
+**Paneles Organizados**
+
+<div class="cv-entry"><div class="year">2025</div><div>"Measuring and Tackling Coloniality in Peace Studies," International Studies Association</div></div>
+
+**Comentarista de Panel**
+
+<div class="cv-entry"><div class="year">2025</div><div>Political Science Undergraduate Research Symposium, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2023</div><div>"Building peace from the debris of violent legacies: challenges and lessons from Colombia," ISA-LACR (Colombia)</div></div>
+
+**Presidente de Panel**
+
+<div class="cv-entry"><div class="year">2025</div><div>"Political Violence," Midwest Political Science Association</div></div>
+
+**Relator**
+
+<div class="cv-entry"><div class="year">2025</div><div>Global Democracy Conference, Instituto Kellogg, Washington, D.C.</div></div>
+<div class="cv-entry"><div class="year">2024</div><div>Global Democracy Conference, Instituto Kellogg, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2022</div><div>Colloquium: Strategies for Sustainable Peacebuilding: Implementation and Policy, Universidad de Yale</div></div>
+</div>
+
+<div class="cv-section">
+### Experiencia en Investigación
+<div class="cv-entry"><div class="year">2024–2025</div><div>Asistente de investigación de Michael Coppedge, midiendo la democracia subnacional con datos de V-Dem y estadísticas geolocalizadas a nivel municipal</div></div>
+<div class="cv-entry"><div class="year">2024–2025</div><div>Asistente de investigación de Laurence Nathan, evaluando resoluciones del Consejo de Seguridad de la ONU en busca de referencias a las dimensiones regionalizadas del conflicto en Sudán del Sur</div></div>
+<div class="cv-entry"><div class="year">2019–2022</div><div>Investigador Asociado, Kroc Institute Barometer Initiative — monitor oficial de terceros del Acuerdo de Paz colombiano de 2016</div></div>
+<div class="cv-entry"><div class="year">2016–2019</div><div>Analista Técnico, Ministerio de Modernización de la Nación (Argentina) — medición de recursos organizacionales y humanos en entidades públicas federales</div></div>
+<div class="cv-entry"><div class="year">2009–2010</div><div>Investigador en Relaciones Comunitarias, Health Care for the Homeless (Baltimore, MD)</div></div>
+</div>
+
+<div class="cv-section">
+### Servicio Académico
+<div class="cv-entry"><div class="year">2025–2026</div><div>Representante del Departamento de Ciencia Política, Graduate Student Government, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2025</div><div>Voluntario, Conferencia de la International Studies Association</div></div>
+<div class="cv-entry"><div class="year">2024–2025</div><div>Representante del Departamento de Estudios de Paz, Graduate Student Government, Universidad de Notre Dame</div></div>
+<div class="cv-entry"><div class="year">2023–Presente</div><div>Coordinador, podcast *Global Stage*, Instituto Kellogg, Universidad de Notre Dame</div></div>
+</div>
+
+<div class="cv-section">
+### Idiomas y Afiliaciones
+
+Español — Nativo · Portugués — Conversacional
+
+Miembro, Latin American Studies Association (2025) · Midwest Political Science Association (2024) · International Studies Association (2023)
+</div>
+
+Para ver la experiencia docente, véase [Docencia](teaching.qmd); para la lista completa de publicaciones, véase [Publicaciones](publications.qmd).

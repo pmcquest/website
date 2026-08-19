@@ -154,7 +154,7 @@ PhD Candidate, Peace Studies and Political Science<br>Kroc Institute for Interna
 <h2 class="anchored" data-anchor-id="about">About</h2>
 <p>I am a PhD candidate in Peace Studies and Political Science at the University of Notre Dame’s Kroc Institute for International Peace Studies, where I am a Presidential Fellow in the Humanities and Social Sciences and a Doctoral Student Affiliate of the Kellogg Institute for International Studies. My dissertation, <em>“Mining for Peace: Conflict Settlements and Extractivism in Colombia and Peru,”</em> examines how the type of conflict settlement — negotiated partial agreements in Colombia versus military victory in Peru — shapes subnational extractive governance. Drawing on comparative historical analysis, original interviews, and archival research, my work traces how peace processes open durable channels of accountability between communities, companies, and the state, and how their absence enables more asymmetrical, sometimes criminalized, resource governance.</p>
 <p>My research also extends into democratization studies, where I have co-developed a new method for measuring subnational democracy using Varieties of Democracy data. I also write on formalization policy, illegal mining economies, and the role of civil society — including the Catholic Church in the Peruvian Amazon — in shaping environmental politics.</p>
-<p>Before Notre Dame, I was a Research Associate with the Kroc Institute’s Peace Accords Matrix, monitoring implementation of the 2016 Colombian peace agreement, and a Technical Analyst with Argentina’s Ministry of Modernization. I hold an M.A.&nbsp;in Development Management and Policy from Georgetown University and Universidad Nacional de San Martín (Argentina), and a B.A. in English from Reed College. I also coordinate the Kellogg Institute’s <em>Global Stage</em> podcast.</p>
+<p>Before starting the PhD, I was a Research Associate with the Kroc Institute’s Peace Accords Matrix, monitoring implementation of the 2016 Colombian peace agreement, and a Technical Analyst with Argentina’s Ministry of Modernization. I hold an M.A.&nbsp;in Development Management and Policy from Georgetown University and Universidad Nacional de San Martín (Argentina), and a B.A. in English from Reed College. I also coordinate the Kellogg Institute’s <a href="https://kellogg.nd.edu/kellogg-podcasts/"><em>Global Stage</em></a> podcast.</p>
 <div class="contact-block">
 <p><strong>Office:</strong> O-111 Hesburgh Center, Notre Dame, IN 46556 <strong>Email:</strong> <a href="mailto:pmcquest@nd.edu">pmcquest@nd.edu</a></p>
 </div>
@@ -163,6 +163,53 @@ PhD Candidate, Peace Studies and Political Science<br>Kroc Institute for Interna
 </section>
 
 </main> <!-- /main -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var path = window.location.pathname;
+  var inEs = path.indexOf('/es/') !== -1 || /\/es$/.test(path);
+
+  var navLabels = {
+    "Home": "Inicio",
+    "Research": "Investigación",
+    "Publications": "Publicaciones",
+    "Teaching": "Docencia",
+    "Vitae": "CV"
+  };
+
+  if (inEs) {
+    document.documentElement.setAttribute('lang', 'es');
+
+    document.querySelectorAll('.navbar-nav .menu-text').forEach(function (el) {
+      var en = el.textContent.trim();
+      if (navLabels[en]) {
+        el.textContent = navLabels[en];
+      }
+    });
+
+    var footerRight = document.querySelector('.nav-footer-right');
+    if (footerRight) {
+      footerRight.innerHTML = footerRight.innerHTML.replace('Built with', 'Creado con');
+    }
+  }
+
+  var file = path.substring(path.lastIndexOf('/') + 1) || 'index.html';
+  var target = inEs ? '../' + file : 'es/' + file;
+  var label = inEs ? 'EN' : 'ES';
+
+  var navRight = document.querySelector('.navbar-nav.navbar-nav-scroll.ms-auto');
+  if (navRight) {
+    var li = document.createElement('li');
+    li.className = 'nav-item compact';
+    var a = document.createElement('a');
+    a.className = 'nav-link';
+    a.href = target;
+    a.textContent = label;
+    a.setAttribute('aria-label', inEs ? 'View in English' : 'Ver en español');
+    li.appendChild(a);
+    navRight.insertBefore(li, navRight.firstChild);
+  }
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
