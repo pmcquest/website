@@ -1,0 +1,39 @@
+---
+title: "Publications"
+---
+
+::: {.pub-group}
+
+### Refereed Publications
+
+::: {.pub-entry}
+Quinn, Jason, Madhav Joshi, Elise Ditta, **Patrick McQuestion**, and Cristian Saez Florez. 2025. "Verifying the Implementation of the 2016 Colombian Peace Agreement: A New Methodology and Dataset." *Journal of World Affairs: Voice of the Global South* 1(1): 94–120. doi: [10.1177/29769442251325358](https://doi.org/10.1177/29769442251325358)
+:::
+
+::: {.pub-entry}
+Echavarría Álvarez, Josefina, Elise Ditta, Juanita Esguerra-Rezk, and **Patrick McQuestion**. 2020. "Colombian Peace Agreement 2016." In *The Palgrave Encyclopedia of Peace and Conflict Studies*. Cham: Springer International Publishing, 1–11. doi: [10.1007/978-3-030-11795-5_128-1](https://doi.org/10.1007/978-3-030-11795-5_128-1)
+:::
+
+### Policy Reports
+
+::: {.pub-entry}
+**McQuestion, Patrick**. 2026. *Conference Brief: Why Citizens Turn Away from Human Rights—and How to Win Them Back*. Kellogg Institute for International Studies, University of Notre Dame. Global Democracy Conference Brief Series. doi: [10.7274/33094964](https://doi.org/10.7274/33094964)
+:::
+
+::: {.pub-entry}
+Zuñiga, Ivonne, Elise Ditta, and **Patrick McQuestion**. 2022. *How to Integrate Peace Agreements into Public Policy*. Kroc Institute for International Peace Studies, Keough School of Global Affairs, University of Notre Dame. Peace Accords Matrix Policy Brief Series. doi: [10.7274/NG451G08W64](https://doi.org/10.7274/NG451G08W64)
+:::
+
+::: {.pub-entry}
+Joshi, Madhav, Louise Olsson, Rebecca Gindele, Josefina Echavarría Alvarez, Elise Ditta, and **Patrick McQuestion**. 2020. *Women, Peace and Security: Understanding the Implementation of Gender Stipulations in Peace Agreements*. Stockholm: Folke Bernadotte Academy, PRIO and UN Women. Joint Brief Series: New Insights on Women, Peace and Security (WPS) for the Next Decade.
+:::
+
+### Book Reviews
+
+::: {.pub-entry}
+**McQuestion, Patrick**. 2025. "Review of Sandra Botero, *Courts That Matter: Activists, Judges, and the Politics of Rights Enforcement*, Cambridge University Press, 2024, 326 pp." *Journal of Latin American Studies*: 1–3. doi: [10.1017/S0022216X25100928](https://doi.org/10.1017/S0022216X25100928)
+:::
+
+:::
+
+For working papers and research in progress, see [Research](research.qmd).

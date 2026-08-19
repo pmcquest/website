@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+My research sits at the intersection of comparative political economy and peace studies, focusing on conflict legacies, policy design, and extractive enterprises in Latin America. I am motivated to understand conflict transformation processes, the protection of human and environmental rights, and the roots of ethical political economy.
+
+## Dissertation: Mining for Peace
+
+*Conflict Settlements and Extractivism in Colombia and Peru*
+
+My dissertation examines the political and institutional dynamics of peacebuilding interventions in resource-rich environments, using Colombia as a primary case to unpack how the type of conflict settlement shapes subnational governance of extractive industries over time — and Peru as a contrasting case where no comprehensive peace process took place.
+
+**Chapter 1** uses comparative historical analysis to trace the revenue-based motivations of government negotiators and insurgent or paramilitary groups in designing partial peace agreements in strategic resource-rich regions. In regions where high levels of organized collective violence impeded companies from processing oil and mineral deposits, ceasefires and partial agreements were more likely to hold; where revenue speculation was less salient, ceasefires were more likely to break down. Rather than elite power-sharing over the spoils of extraction, I find that the localized presence of multi-cultural ethnic and *campesino* groups in resource-rich zones opened channels of accountability resembling third-party monitoring, which helped commitments hold.
+
+**Chapter 2** draws on interviews with negotiators and archival research to show that this mechanism extends beyond partial agreements into the design of more comprehensive frameworks, including the 2016 agreement with the FARC-EP. It traces the decision-making behind incorporating multi-cultural populations as protagonists in truth and reconciliation processes, as arbiters of investment projects, and as guardians of the natural environments where resources are most contested — showing how prior peacebuilding experience enabled institutional learning that improved natural resource governance in contemporary Colombia.
+
+**Chapter 3** tests this "peace learning" theory in Peru, where the absence of partial or comprehensive peace processes between the government and insurgent groups produced markedly different outcomes. Resource-rich areas there are highly contested by private speculators and local communities, producing persistently violent and unequal governance dynamics. Without formal elite pacts from which repertoires of accountability could be forged, communities must engage in costly collective action to counter extractive entrepreneurs backed by state concessions — and in the most extreme cases, governance is captured by criminal enterprises that foreclose the political pacts that might otherwise reduce violence.
+
+## Broader Research Agenda
+
+**Measuring subnational democracy.** In a co-authored project, I apply comparative area expertise in Colombia to introduce a new methodology for measuring subnational levels of democracy, combining empirical data with Varieties of Democracy (V-Dem) expert survey responses. I demonstrate this method in my dissertation by comparing democracy levels across mining sites in Colombia and Peru.
+
+**Extractive governance typology.** In ongoing work, I develop a typology of extractive governance in conflict-affected countries, contributing to research on the political economy of developing extractive economies.
+
+**Civil society and environmental politics in the Peruvian Amazon.** Field research in Madre de Dios motivated a line of work on the role of the Catholic Church in organizing civic action against illegal alluvial mining and shaping environmental policy — examining how Church leaders and lay people coordinate with Indigenous groups and other religious actors to influence environmental governance.
+
+**Networks.** I am an active member of the [Forests and Livelihoods: Assessment, Research, and Engagement (FLARE)](https://www.laseng.org/flare) network, contributing to interdisciplinary scholarship on environmental sustainability, and my research has been supported by the Kellogg Institute for International Studies and the Laudato Si Institute, among others.
+
+For a full list of outputs, see [Publications](publications.qmd).
