@@ -1,5 +1,6 @@
 /.quarto/
 /_site/
 .DS_Store
+/images/Patrick McQuestion.jpg
 
 **/*.quarto_ipynb

@@ -4,7 +4,7 @@ page-layout: article
 ---
 
 :::: {.hero}
-![](images/headshot.svg){.headshot}
+![](images/headshot.jpg){.headshot}
 
 ::: {.hero-text}
 # Patrick McQuestion

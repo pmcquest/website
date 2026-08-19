@@ -6,6 +6,10 @@ title: "Vitae"
 O-111 Hesburgh Center, Notre Dame, IN 46556 · [pmcquest@nd.edu](mailto:pmcquest@nd.edu) · [ORCID: 0000-0003-0713-3642](https://orcid.org/my-orcid?orcid=0000-0003-0713-3642) · [Google Scholar](https://scholar.google.com/citations?user=D6T5uPcAAAAJ&hl=en&oi=ao)
 </div>
 
+<div class="quicklinks" style="margin-top: 0.6rem;">
+[Download full CV (PDF)](files/McQuestion-CV.pdf){target="_blank"}
+</div>
+
 <div class="cv-section">
 ### Education
 <div class="cv-entry"><div class="year">2028 (exp.)</div><div>Ph.D. in Peace Studies and Political Science, University of Notre Dame</div></div>
