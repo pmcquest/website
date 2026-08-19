@@ -451,15 +451,38 @@ document.addEventListener("DOMContentLoaded", function () {
     "Vitae": "CV"
   };
 
+  var pageFile = {
+    "Home": "index.html",
+    "Research": "research.html",
+    "Publications": "publications.html",
+    "Teaching": "teaching.html",
+    "Vitae": "vitae.html"
+  };
+
   if (inEs) {
     document.documentElement.setAttribute('lang', 'es');
 
-    document.querySelectorAll('.navbar-nav .menu-text').forEach(function (el) {
-      var en = el.textContent.trim();
+    // quarto-nav.js (loaded earlier in <head>) already ran by this point and
+    // rewrites nav-link hrefs to absolute URLs pointing at the English root
+    // pages, for its own active-page bookkeeping. Identify each link by its
+    // (still-English) label rather than trusting its href, and set the
+    // href to the sibling page in es/ as the last word on the matter.
+    document.querySelectorAll('.navbar-nav.navbar-nav-scroll.me-auto .nav-link').forEach(function (a) {
+      var span = a.querySelector('.menu-text');
+      if (!span) return;
+      var en = span.textContent.trim();
+      if (pageFile[en]) {
+        a.setAttribute('href', pageFile[en]);
+      }
       if (navLabels[en]) {
-        el.textContent = navLabels[en];
+        span.textContent = navLabels[en];
       }
     });
+
+    var brand = document.querySelector('.navbar-brand');
+    if (brand) {
+      brand.setAttribute('href', 'index.html');
+    }
 
     var footerRight = document.querySelector('.nav-footer-right');
     if (footerRight) {
