@@ -54,6 +54,7 @@ O-111 Hesburgh Center, Notre Dame, IN 46556 · [pmcquest@nd.edu](mailto:pmcquest
 
 **Relator**
 
+<div class="cv-entry"><div class="year">2026</div><div>Global Democracy Conference, Instituto Kellogg, Universidad de Notre Dame</div></div>
 <div class="cv-entry"><div class="year">2025</div><div>Global Democracy Conference, Instituto Kellogg, Washington, D.C.</div></div>
 <div class="cv-entry"><div class="year">2024</div><div>Global Democracy Conference, Instituto Kellogg, Universidad de Notre Dame</div></div>
 <div class="cv-entry"><div class="year">2022</div><div>Colloquium: Strategies for Sustainable Peacebuilding: Implementation and Policy, Universidad de Yale</div></div>
@@ -81,7 +82,7 @@ O-111 Hesburgh Center, Notre Dame, IN 46556 · [pmcquest@nd.edu](mailto:pmcquest
 
 Español — Nativo · Portugués — Conversacional
 
-Miembro, Latin American Studies Association (2025) · Midwest Political Science Association (2024) · International Studies Association (2023)
+Miembro, American Political Science Association (2025–) · Latin American Studies Association (2025–) · Midwest Political Science Association (2024–) · International Studies Association (2023–)
 </div>
 
 Para ver la experiencia docente, véase [Docencia](teaching.qmd); para la lista completa de publicaciones, véase [Publicaciones](publications.qmd).
