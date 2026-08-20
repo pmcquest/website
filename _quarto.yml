@@ -7,6 +7,7 @@ project:
 website:
   title: "Patrick McQuestion"
   description: "PhD Candidate in Peace Studies and Political Science, University of Notre Dame"
+  site-url: "https://pmcquest.github.io/website"
   navbar:
     left:
       - href: index.qmd
