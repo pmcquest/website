@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google737b8e3c0097d91d.html
 
 website:
   title: "Patrick McQuestion"
