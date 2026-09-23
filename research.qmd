@@ -14,6 +14,11 @@ In the Colombia chapters, I use comparative historical analysis, interviews with
 
 The Peru chapter interrogates this "peace learning" hypothesis in a setting where the absence of partial or comprehensive peace processes between the government and insurgent groups may produce markedly different governance dynamics. Resource-rich areas there are highly contested by private speculators and local communities; I ask whether the absence of formal elite pacts — from which repertoires of accountability could otherwise be forged — helps explain more costly collective action, and in some cases, governance capture by criminal enterprises.
 
+::: {.page-photo-block}
+![](images/caldono-cauca-mural.jpg)
+<div class="caption">Community center mural, Caldono, Cauca — Kroc Institute fieldwork, 2021</div>
+:::
+
 ## Broader Research Agenda
 
 **Measuring subnational democracy.** In a co-authored project, I apply comparative area expertise in Colombia to introduce a new methodology for measuring subnational levels of democracy, combining empirical data with Varieties of Democracy (V-Dem) expert survey responses. I demonstrate this method in my dissertation by comparing democracy levels across mining sites in Colombia and Peru.

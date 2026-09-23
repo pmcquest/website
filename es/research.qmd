@@ -14,6 +14,11 @@ En los capítulos sobre Colombia, utilizo análisis histórico comparado, entrev
 
 El capítulo sobre Perú interroga esta hipótesis de "aprendizaje de paz" en un contexto donde la ausencia de procesos de paz parciales o integrales entre el gobierno y los grupos insurgentes podría producir dinámicas de gobernanza marcadamente distintas. Las zonas ricas en recursos allí son disputadas intensamente por especuladores privados y comunidades locales; me pregunto si la ausencia de pactos formales entre élites — a partir de los cuales podrían forjarse repertorios de rendición de cuentas — ayuda a explicar formas más costosas de acción colectiva y, en algunos casos, la captura de la gobernanza por parte de empresas criminales.
 
+::: {.page-photo-block}
+![](../images/caldono-cauca-mural.jpg)
+<div class="caption">Mural del centro comunitario, Caldono, Cauca — trabajo de campo con el Instituto Kroc, 2021</div>
+:::
+
 ## Agenda de investigación más amplia
 
 **Medición de la democracia subnacional.** En un proyecto en coautoría, aplico mi conocimiento comparado de Colombia para introducir una nueva metodología para medir los niveles subnacionales de democracia, combinando datos empíricos con las encuestas de expertos de Varieties of Democracy (V-Dem). Demuestro este método en mi tesis doctoral comparando los niveles de democracia entre zonas mineras de Colombia y Perú.

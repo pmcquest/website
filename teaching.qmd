@@ -4,6 +4,11 @@ title: "Teaching"
 
 ## Teaching Philosophy
 
+::: {.page-photo-float}
+![](images/ollantaytambo-web.jpg)
+<div class="caption">Ollantaytambo, Peru</div>
+:::
+
 I view the university classroom as a laboratory for both academic rigor and social engagement — a space to build skills like public speaking and critical thinking alongside moments of genuine intellectual connection. My teaching is guided by the conviction that political science and peace studies can come alive in and outside the classroom, broadening students' sense of purpose while equipping them with practical skills like data literacy and public communication. In introductory courses, I aim to bridge academic theory and real-world situations through active-learning exercises that turn abstract concepts into tangible communication and analytical skills; in advanced seminars, I prioritize methodology and the knowledge-building process, pushing students to grapple with real data and its imperfections and to develop a critical eye for research design.
 
 This dual focus — outward-facing skills for the real world, and inward-facing mastery of technical knowledge production — is designed to appeal to diverse learning styles, from the aspiring public intellectual to the future quantitative researcher. Whether leading a large lecture or a small seminar, my goal is the same: to turn students from passive consumers of information into active contributors to their fields and to society.

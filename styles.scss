@@ -109,3 +109,54 @@ h1, h2, h3 {
   color: #444;
   margin-top: 1rem;
 }
+
+.page-photo-float {
+  float: right;
+  width: 300px;
+  max-width: 40%;
+  margin: 0.3rem 0 1.2rem 2rem;
+}
+
+.page-photo-float img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.page-photo-float .caption {
+  font-size: 0.8rem;
+  color: #777;
+  font-style: italic;
+  margin-top: 0.4rem;
+  text-align: center;
+}
+
+.page-photo-block {
+  margin: 2rem 0;
+}
+
+.page-photo-block img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  display: block;
+}
+
+.page-photo-block .caption {
+  font-size: 0.8rem;
+  color: #777;
+  font-style: italic;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .page-photo-float {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+}
